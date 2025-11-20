@@ -1,0 +1,5 @@
+{
+  "name": "FretMaster AI",
+  "description": "A visual fretboard memorization tool for Guitar and Bass, powered by Gemini for practice tips.",
+  "requestFramePermissions": []
+}
