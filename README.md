@@ -34,7 +34,7 @@
 
 ```bash
 git clone <repository-url>
-cd fretmaster-ai
+cd fretmaster
 ```
 
 2. 安装依赖
@@ -92,7 +92,7 @@ npm run preview
 ### 📁 项目结构
 
 ```
-fretmaster-ai/
+fretmaster/
 ├── components/         # React 组件
 │   └── Fretboard.tsx  # 指板可视化组件
 ├── services/          # 业务逻辑服务
@@ -152,7 +152,7 @@ MIT License
 
 ```bash
 git clone <repository-url>
-cd fretmaster-ai
+cd fretmaster
 ```
 
 2. Install dependencies
@@ -210,7 +210,7 @@ npm run preview
 ### 📁 Project Structure
 
 ```
-fretmaster-ai/
+fretmaster/
 ├── components/         # React components
 │   └── Fretboard.tsx  # Fretboard visualization component
 ├── services/          # Business logic services
