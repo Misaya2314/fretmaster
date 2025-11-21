@@ -1,5 +1,5 @@
 {
-  "name": "FretMaster AI",
-  "description": "A visual fretboard memorization tool for Guitar and Bass, powered by Gemini for practice tips.",
+  "name": "FretMaster - 指板大师",
+  "description": "A visual fretboard memorization tool for Guitar and Bass. 吉他和贝斯指板学习工具。",
   "requestFramePermissions": []
 }
